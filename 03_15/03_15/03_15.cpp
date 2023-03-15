@@ -2,11 +2,13 @@
 //
 
 #include <iostream>
+#include <stdio.h>
 
 int main()
 {
+    /// 헬로 월드 출력
+    printf("Hello World!\n");
     std::cout << "Hello World!\n";
-
 
     return 0;
 }
